@@ -1,0 +1,15 @@
+img {
+	margin-left: auto;
+	margin-right: auto;
+}
+li {
+	display: inline;
+	text-align: right;
+	font-family: Arial;
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
